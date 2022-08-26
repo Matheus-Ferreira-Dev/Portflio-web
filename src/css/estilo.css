@@ -46,7 +46,7 @@ body {
 .hero {
   grid-area: hero;
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../img/background.jpg') center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('src/img/background.jpg') center center no-repeat;
   background-size: cover;
   display: flex;
   justify-content: center;
