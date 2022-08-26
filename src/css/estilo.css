@@ -128,7 +128,7 @@ body {
 }
 
 .about .image.right {
-  background: url('/img/About-us-1.jpg') center center no-repeat;
+  background: url('src/img/About-us-1.jpg') center center no-repeat;
   background-size: cover;
 }
 
