@@ -128,7 +128,7 @@ body {
 }
 
 .about .image.right {
-  background: url('https://uploaddeimagens.com.br/images/003/998/564/full/About-us-1.jpg?1661540535') center center no-repeat;
+  background: url("https://uploaddeimagens.com.br/images/003/998/564/full/About-us-1.jpg?1661540535") center center no-repeat;
   background-size: cover;
 }
 
