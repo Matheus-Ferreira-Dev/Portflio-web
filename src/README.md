@@ -1,8 +1,8 @@
 ## Portfólio one page.
 
- Página no desktop
+Página no desktop
 
-<img src="https://uploaddeimagens.com.br/images/004/000/109/full/screencapture-matheus-ferreira-dev-github-io-Portflio-web-2022-08-28-00_39_48.png?1661658290" alt="print site desktop">
+<img src="https://uploaddeimagens.com.br/images/004/000/109/full/screencapture-matheus-ferreira-dev-github-io-Portflio-web-2022-08-28-00_39_48.png?1661658290" alt="print site desktop" width="500">
 
 página no celular
 
