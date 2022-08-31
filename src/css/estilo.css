@@ -18,6 +18,10 @@ body {
   font-weight: 400;
 }
 
+.titulos-secoes {
+  font-size: 2.rem;
+  color: #000;
+}
 /* HEADER */
 .header {
   grid-area: header;
